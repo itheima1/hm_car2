@@ -21,7 +21,7 @@
     * 上课代码.rar
 * day06资料
     * STM32笔记 （整个STM32笔记）
-    * 上课代码.rar
+    * 上课代码.zip
     * 资料.rar（开发文档）
     * 开发环境下载地址：链接：https://pan.baidu.com/s/1Wm-qIJyTdoDzPd2c1kZCsw 
         提取码：1234 
