@@ -86,3 +86,6 @@
 * day27-Numpy数学库&Matplotlib绘-资料
     * [笔记](day27-Numpy数学库&Matplotlib绘图/笔记)
     * [代码](day27-Numpy数学库&Matplotlib绘图/代码)
+* day28资料
+    * 笔记
+    * 代码
