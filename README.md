@@ -23,8 +23,8 @@
     * STM32笔记 （整个STM32笔记）
     * 上课代码.zip
     * 资料.rar（开发文档）
-    * 开发环境下载地址：链接：https://pan.baidu.com/s/1Wm-qIJyTdoDzPd2c1kZCsw 
-        提取码：1234
+    * 开发环境下载地址：链接：https://pan.baidu.com/s/1fhHMNTGECZd9qXNDC9GytQ 
+提取码：6hk3 
 * day07资料
     * 上课代码.zip
 * day08资料
